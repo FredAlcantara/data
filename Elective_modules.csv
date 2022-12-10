@@ -1,0 +1,121 @@
+Year,Gender,Subject,CorHigher
+2008,Male,PE,62.1
+2009,Male,PE,64.1
+2010,Male,PE,67.8
+2011,Male,PE,70.4
+2012,Male,PE,69.9
+2013,Male,PE,69.4
+2014,Male,PE,67.9
+2015,Male,PE,68.2
+2016,Male,PE,65.6
+2017,Male,PE,65.6
+2018,Male,PE,66.6
+2019,Male,PE,68.8
+2020,Male,PE,83.2
+2021,Male,PE,84.7
+2022,Male,PE,79.8
+2008,Female,PE,63.4
+2009,Female,PE,66.2
+2010,Female,PE,69.2
+2011,Female,PE,71.7
+2012,Female,PE,71.4
+2013,Female,PE,72.3
+2014,Female,PE,71.4
+2015,Female,PE,72.3
+2016,Female,PE,71.5
+2017,Female,PE,72.4
+2018,Female,PE,76.2
+2019,Female,PE,77.1
+2020,Female,PE,89.5
+2021,Female,PE,90.9
+2022,Female,PE,85.6
+2008,Male,Art,63
+2009,Male,Art,65.3
+2010,Male,Art,66.5
+2011,Male,Art,64.7
+2012,Male,Art,64.8
+2013,Male,Art,64.6
+2014,Male,Art,63.6
+2015,Male,Art,63.8
+2016,Male,Art,63.1
+2017,Male,Art,62.6
+2018,Male,Art,61.1
+2019,Male,Art,61.8
+2020,Male,Art,76.9
+2021,Male,Art,74.9
+2022,Male,Art,70.8
+2008,Female,Art,80.4
+2009,Female,Art,82.2
+2010,Female,Art,83.3
+2011,Female,Art,82.3
+2012,Female,Art,83.1
+2013,Female,Art,82.7
+2014,Female,Art,82.5
+2015,Female,Art,82.5
+2016,Female,Art,81.8
+2017,Female,Art,81.5
+2018,Female,Art,81.6
+2019,Female,Art,81.8
+2020,Female,Art,91.3
+2021,Female,Art,90
+2022,Female,Art,87.1
+2008,Male,Computer Science,62.8
+2009,Male,Computer Science,66.5
+2010,Male,Computer Science,71.1
+2011,Male,Computer Science,72.8
+2012,Male,Computer Science,70.1
+2013,Male,Computer Science,67.8
+2014,Male,Computer Science,64.4
+2015,Male,Computer Science,64.1
+2016,Male,Computer Science,59.6
+2017,Male,Computer Science,59.4
+2018,Male,Computer Science,60.4
+2019,Male,Computer Science,61.7
+2020,Male,Computer Science,78.9
+2021,Male,Computer Science,81.2
+2022,Male,Computer Science,74.1
+2008,Female,Computer Science,71.2
+2009,Female,Computer Science,75.6
+2010,Female,Computer Science,79.2
+2011,Female,Computer Science,82
+2012,Female,Computer Science,79.3
+2013,Female,Computer Science,71.7
+2014,Female,Computer Science,71.9
+2015,Female,Computer Science,72.3
+2016,Female,Computer Science,62.7
+2017,Female,Computer Science,65.6
+2018,Female,Computer Science,65
+2019,Female,Computer Science,66.2
+2020,Female,Computer Science,84.4
+2021,Female,Computer Science,86.8
+2022,Female,Computer Science,79.4
+2008,Male,Music,70.3
+2009,Male,Music,72.9
+2010,Male,Music,74.7
+2011,Male,Music,74.2
+2012,Male,Music,75.2
+2013,Male,Music,73.8
+2014,Male,Music,72
+2015,Male,Music,71.9
+2016,Male,Music,70.9
+2017,Male,Music,71
+2018,Male,Music,70.7
+2019,Male,Music,72.4
+2020,Male,Music,86.5
+2021,Male,Music,85.3
+2022,Male,Music,79.8
+2008,Female,Music,77.4
+2009,Female,Music,78.8
+2010,Female,Music,80.5
+2011,Female,Music,79.1
+2012,Female,Music,79.9
+2013,Female,Music,79
+2014,Female,Music,78.5
+2015,Female,Music,77.8
+2016,Female,Music,77.1
+2017,Female,Music,77
+2018,Female,Music,78
+2019,Female,Music,78.2
+2020,Female,Music,91.5
+2021,Female,Music,90.4
+2022,Female,Music,85.7
