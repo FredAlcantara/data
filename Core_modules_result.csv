@@ -1,19 +1,19 @@
 Year,Gender,Subject,CorHigher
-2008,Men,Maths,55.9
-2009,Men,Maths,57.6
-2010,Men,Maths,58.6
-2011,Men,Maths,58.9
-2012,Men,Maths,58.7
-2013,Men,Maths,57.9
-2014,Men,Maths,63.1
-2015,Men,Maths,64.7
-2016,Men,Maths,61.8
-2017,Men,Maths,60.5
-2018,Men,Maths,60
-2019,Men,Maths,60.1
-2020,Men,Maths,65.5
-2021,Men,Maths,68.5
-2022,Men,Maths,64.8
+2008,Male,Maths,55.9
+2009,Male,Maths,57.6
+2010,Male,Maths,58.6
+2011,Male,Maths,58.9
+2012,Male,Maths,58.7
+2013,Male,Maths,57.9
+2014,Male,Maths,63.1
+2015,Male,Maths,64.7
+2016,Male,Maths,61.8
+2017,Male,Maths,60.5
+2018,Male,Maths,60
+2019,Male,Maths,60.1
+2020,Male,Maths,65.5
+2021,Male,Maths,68.5
+2022,Male,Maths,64.8
 2008,Female,Maths,56.8
 2009,Female,Maths,57
 2010,Female,Maths,58.4
@@ -29,21 +29,21 @@ Year,Gender,Subject,CorHigher
 2020,Female,Maths,67.3
 2021,Female,Maths,69.8
 2022,Female,Maths,64.9
-2008,Men,English Language ,56.1
-2009,Men,English Language ,56.2
-2010,Men,English Language ,58
-2011,Men,English Language ,58.9
-2012,Men,English Language ,56.9
-2013,Men,English Language ,56.3
-2014,Men,English Language ,53.6
-2015,Men,English Language ,57.6
-2016,Men,English Language ,51.5
-2017,Men,English Language ,53.5
-2018,Men,English Language ,54.6
-2019,Men,English Language ,54
-2020,Men,English Language ,64.5
-2021,Men,English Language ,67.9
-2022,Men,English Language ,63.5
+2008,Male,English Language ,56.1
+2009,Male,English Language ,56.2
+2010,Male,English Language ,58
+2011,Male,English Language ,58.9
+2012,Male,English Language ,56.9
+2013,Male,English Language ,56.3
+2014,Male,English Language ,53.6
+2015,Male,English Language ,57.6
+2016,Male,English Language ,51.5
+2017,Male,English Language ,53.5
+2018,Male,English Language ,54.6
+2019,Male,English Language ,54
+2020,Male,English Language ,64.5
+2021,Male,English Language ,67.9
+2022,Male,English Language ,63.5
 2008,Female,English Language ,69.4
 2009,Female,English Language ,69.2
 2010,Female,English Language ,71.8
